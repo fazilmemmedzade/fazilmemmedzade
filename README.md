@@ -45,9 +45,14 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 ## Projects
 
+### Flight Booking
+A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
+
+[View Project](https://github.com/fazilmmmdzad/FlightBooking)
+
+---
+
 ### Honey Degrees
-
-
 A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
 [View Project](https://github.com/fazilmmmdzad/Temperature_Transducer)
@@ -58,13 +63,6 @@ A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and
 Desktop image editing application developed with C# Windows Forms.
 
 [View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
-
----
-
-### Flight Booking
-A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
-
-[View Project](https://github.com/fazilmmmdzad/FlightBooking)
 
 ## Certificates
 <p align="left">
