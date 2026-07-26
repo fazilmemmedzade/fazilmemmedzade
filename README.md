@@ -47,7 +47,6 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 ### Honey Degrees
 
-<img src="https://github.com/fazilmmmdzad/Temperature_Transducer/blob/main/Annotation%202026-06-30%2008371333.png" alt="Honey Degrees" width="300"/>
 
 A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
@@ -56,9 +55,6 @@ A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and
 ---
 
 ### Honey Photo
-
-<img src="https://github.com/fazilmmmdzad/HoneyPhoto/blob/master/Annotation%202026-06-30%2008394533.png" alt="Honey Photo" width="300"/>
-
 Desktop image editing application developed with C# Windows Forms.
 
 [View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
@@ -66,21 +62,6 @@ Desktop image editing application developed with C# Windows Forms.
 ---
 
 ### Flight Booking
-<p align="left">
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20221826.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20221908.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20221942.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20222031.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-21%20222130.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-22%20154141.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-22%20171128.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-23%20133516.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-23%20133601.png" width="250"/>
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/Annotation%202026-07-23%20171609.png" width="250"/>
-
-  
-</p>
-
 A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
 [View Project](https://github.com/fazilmmmdzad/FlightBooking)
