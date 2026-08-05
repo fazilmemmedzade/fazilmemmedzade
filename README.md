@@ -74,6 +74,13 @@ Desktop image editing application developed with C# Windows Forms.
 
 [View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
 
+---
+
+### Meeting App
+MeetingApp is a user management application that allows users to register and view the total number of registered members.
+
+[View Project](https://github.com/fazilmmmdzad/MeetingApp)
+
 ## Certificates
 <p align="left">
 <img src="https://github.com/fazilmmmdzad/portfolio/blob/main/AspDotNetCertificate.png" width="270px"/>
