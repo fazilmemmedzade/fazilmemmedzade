@@ -54,6 +54,8 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek">
 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="Minimax">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45" alt="VS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45" alt="VSCode">
 </p>
 
 
