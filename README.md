@@ -16,11 +16,16 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
   
 </p>
 
+## Languages
+<p align="left">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45" alt="CSharp">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" alt="Js">
+</p>
+
 ## Frontend
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" alt="HTML">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" alt="CSS">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" alt="Js">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" alt="Bootstrap">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery">
@@ -30,7 +35,6 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 
 ## Backend
 <p align="left">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45" alt="CSharp">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet">
 <img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
 <img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
