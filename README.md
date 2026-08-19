@@ -4,15 +4,15 @@
 I've been programming for **3** years, starting my journey with **C#**. Since then, I've expanded my skills by learning **ASP.NET**, Microsoft SQL Server (**MSSQL**), **JavaScript**, **HTML**, **CSS**, and other related technologies. My primary focus is **backend development**, and I enjoy building server-side applications and improving my **full-stack development skills**. 
 
 <p align="left">
-<a href="https://fazilmmmdzad.github.io/portfolio/" target="_blank">My Portfolio</a> |
-<a href="https://fazilmmmdzad.github.io/CV/" target="_blank">CV</a>
+<a href="https://fazilmemmedzade.github.io/portfolio/" target="_blank">My Portfolio</a> |
+<a href="https://fazilmemmedzade.github.io/CV/" target="_blank">CV</a>
 </p>
 
 ## Contact Me
 <p align="left">
   <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
   <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="45" alt="Email"></a>
-  <a href="https://github.com/fazilmmmdzad" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
+  <a href="https://github.com/fazilmemmedzade" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
   
 </p>
 
@@ -36,13 +36,13 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 ## Backend
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet">
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
+<img src="https://github.com/fazilmemmedzade/My-Certificates/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
+<img src="https://github.com/fazilmemmedzade/My-Certificates/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
 </p>
 
 ## Database
 <p align="left">
-<img src="https://github.com/fazilmmmdzad/My-Certificates/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL">
+<img src="https://github.com/fazilmemmedzade/My-Certificates/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="45" alt="Sqlite">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb">
 </p>
@@ -50,7 +50,7 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 ## Tools & AIs
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" alt="Git">
-<img src="https://github.com/fazilmmmdzad/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva">
+<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek">
   <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini">
@@ -66,32 +66,32 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 ### Flight Booking
 A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
-[View Project](https://github.com/fazilmmmdzad/FlightBooking)
+[View Project](https://github.com/fazil_memmedzade/FlightBooking)
 
 ---
 
 ### Honey Degrees
 A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-[View Project](https://github.com/fazilmmmdzad/Temperature_Transducer)
+[View Project](https://github.com/fazil_memmedzade/Temperature_Transducer)
 
 ---
 
 ### Honey Photo
 Desktop image editing application developed with C# Windows Forms.
 
-[View Project](https://github.com/fazilmmmdzad/HoneyPhoto)
+[View Project](https://github.com/fazil_memmedzade/HoneyPhoto)
 
 ---
 
 ### Meeting App
 MeetingApp is a user management application that allows users to register and view the total number of registered members.
 
-[View Project](https://github.com/fazilmmmdzad/MeetingApp)
+[View Project](https://github.com/fazil_memmedzade/MeetingApp)
 
 ## Certificates
 <p align="left">
-<img src="https://github.com/fazilmmmdzad/portfolio/blob/main/AspDotNetCertificate.png" width="270px"/>
-<img src="https://github.com/fazilmmmdzad/portfolio/blob/main/CsCertificate.png" alt="Honey Photo" width="270px"/>
-<img src="https://github.com/fazilmmmdzad/portfolio/blob/main/HtmlCssJsCertificate.png" alt="Honey Photo" width="270px"/>
+<img src="https://github.com/fazil_memmedzade/portfolio/blob/main/AspDotNetCertificate.png" width="270px"/>
+<img src="https://github.com/fazil_memmedzade/portfolio/blob/main/CsCertificate.png" alt="Honey Photo" width="270px"/>
+<img src="https://github.com/fazil_memmedzade/portfolio/blob/main/HtmlCssJsCertificate.png" alt="Honey Photo" width="270px"/>
 </p>
