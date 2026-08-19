@@ -37,13 +37,13 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 ## Backend
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet">
-<img src="https://github.com/fazilmemmedzade/My-Certificates/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
-<img src="https://github.com/fazilmemmedzade/My-Certificates/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
+<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
+<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
 </p>
 
 ## Database
 <p align="left">
-<img src="https://github.com/fazilmemmedzade/My-Certificates/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL">
+<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="45" alt="Sqlite">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb">
 </p>
