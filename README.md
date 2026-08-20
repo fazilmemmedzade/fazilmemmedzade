@@ -63,28 +63,28 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 ### Flight Booking
 A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
-[View Project](https://github.com/fazil_memmedzade/FlightBooking)
+[View Project](https://github.com/fazilmemmedzade/FlightBooking)
 
 ---
 
 ### Honey Degrees
 A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-[View Project](https://github.com/fazil_memmedzade/Temperature_Transducer)
+[View Project](https://github.com/fazilmemmedzade/Temperature_Transducer)
 
 ---
 
 ### Honey Photo
 Desktop image editing application developed with C# Windows Forms.
 
-[View Project](https://github.com/fazil_memmedzade/HoneyPhoto)
+[View Project](https://github.com/fazilmemmedzade/HoneyPhoto)
 
 ---
 
 ### Meeting App
 MeetingApp is a user management application that allows users to register and view the total number of registered members.
 
-[View Project](https://github.com/fazil_memmedzade/MeetingApp)
+[View Project](https://github.com/fazilmemmedzade/MeetingApp)
 
 ## Certificates
 <p align="left">
