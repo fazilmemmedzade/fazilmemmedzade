@@ -72,7 +72,7 @@ A full-stack airline reservation system with online booking, check-in, admin pan
 ---
 
 ### Blog App
-A full-stack blogging platform built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
+A social blogging platform where users can create, share, discover, and interact with blog posts.
 
 [View Project](https://github.com/fazilmemmedzade/BlogApp)
 
