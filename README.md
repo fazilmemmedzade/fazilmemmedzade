@@ -71,6 +71,13 @@ A full-stack airline reservation system with online booking, check-in, admin pan
 
 ---
 
+### Blog App
+A full-stack blogging platform built with ASP.NET Core MVC, Entity Framework Core, and SQL Server.
+
+[View Project](https://github.com/fazilmemmedzade/BlogApp)
+
+---
+
 ### Honey Degrees
 A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
