@@ -44,7 +44,7 @@ I've been programming for **3** years, starting my journey with **C#**. Since th
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb">
 </p>
 
-## Tools & AIs
+## Work With
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" alt="Git">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva">
