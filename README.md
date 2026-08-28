@@ -97,9 +97,3 @@ MeetingApp is a user management application that allows users to register and vi
 
 [View Project](https://github.com/fazilmemmedzade/MeetingApp)
 
-## Certificates
-<p align="left">
-<img src="https://github.com/fazilmemmedzade/portfolio/blob/main/AspDotNetCertificate.png" width="270px"/>
-<img src="https://github.com/fazilmemmedzade/portfolio/blob/main/CsCertificate.png" alt="Honey Photo" width="270px"/>
-<img src="https://github.com/fazilmemmedzade/portfolio/blob/main/HtmlCssJsCertificate.png" alt="Honey Photo" width="270px"/>
-</p>
