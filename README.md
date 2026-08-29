@@ -1,7 +1,7 @@
 # Hello, I'm Fazil Məmmədzadə
 ### Full-Stack .NET Developer
 
-I am a 15-year-old Full-Stack .NET Developer bringing 3 years of software development experience to backend architecture using C#, ASP.NET Core, and MSSQL. In addition to my primary server-side focus, I craft complete, scalable web solutions with JavaScript, HTML, and CSS.
+I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 years of software development experience to backend architecture using C#, ASP.NET Core, and MSSQL. In addition to my primary server-side focus, I craft complete, scalable web solutions with JavaScript, HTML, and CSS.
 
 <p align="left">
 <a href="https://fazilmemmedzade.github.io/portfolio/" target="_blank">My Portfolio</a>
