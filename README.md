@@ -1,7 +1,7 @@
 # Hello, I'm Fazil Məmmədzadə
 ### Full-Stack .NET Developer
 
-I've been programming for **3** years, starting my journey with **C#**. Since then, I've expanded my skills by learning **ASP.NET**, Microsoft SQL Server (**MSSQL**), **JavaScript**, **HTML**, **CSS**, and other related technologies. My primary focus is **backend development**, and I enjoy building server-side applications and improving my **full-stack development skills**. 
+I'm a 15-year-old Full-Stack .NET Developer with three years of programming experience, specializing in backend architecture using C#, ASP.NET Core, and MSSQL. Alongside my core server-side focus, I build end-to-end web applications using JavaScript, HTML, and CSS to deliver complete, scalable solutions.
 
 <p align="left">
 <a href="https://fazilmemmedzade.github.io/portfolio/" target="_blank">My Portfolio</a>
