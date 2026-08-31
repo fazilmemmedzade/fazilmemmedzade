@@ -66,19 +66,6 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
   
 </p>
 
-## .NET
-<p align="left">
-  <img src="https://int-rt.ru/wp-content/uploads/2024/07/image-8.png" width="55">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mldotnet.svg/960px-Mldotnet.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="55">
-  <img src="https://www.nilebits.com/wp-content/uploads/2023/09/NET-Framework-1.png" width="55">
-  <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/asp-net-core.png" width="55">
-  <img src="https://www.narolainfotech.com/wp-content/uploads/2022/09/Copy-of-.net_.svg" width="55">
-  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/WEBAPI.png" width="55">
-  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/MVC.png" width="55">
-  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/RAZOR.png" width="55">
-</p>
-
-
 ## Projects
 
 ### Flight Booking
