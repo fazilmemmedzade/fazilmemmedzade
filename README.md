@@ -68,6 +68,14 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 
 ## Projects
 
+### RefactorAI
+A lightweight AI chatbot built with React 18, focused on programming, code analysis, debugging, refactoring, and developer assistance.
+
+[View Project](https://github.com/fazilmemmedzade/RefactorAI) |
+[Visit site](https://fazilmemmedzade.github.io/RefactorAI/)
+
+---
+
 ### Flight Booking
 A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
