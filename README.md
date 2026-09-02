@@ -38,6 +38,7 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
+<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/scalarlogo.png" width="45" alt="Scalar">
 </p>
 
 ## Database
