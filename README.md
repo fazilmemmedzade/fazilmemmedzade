@@ -27,6 +27,8 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="45" alt="npm">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="45" alt="Vercel">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite">
 <img src="https://files.raycast.com/5nvc08k7df18sjcosi0jqd17gi6p" width="45" alt="Font Awesome">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/lucide.png" width="45" alt="Lucide">
