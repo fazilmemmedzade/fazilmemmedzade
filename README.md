@@ -26,11 +26,7 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="45" alt="npm">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="45" alt="Vercel">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica.png" width="46" alt="Chart.js">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite">
 <img src="https://files.raycast.com/5nvc08k7df18sjcosi0jqd17gi6p" width="45" alt="Font Awesome">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/lucide.png" width="45" alt="Lucide">
 </p>
@@ -53,21 +49,26 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 
 
 
-## Work With
+## Tools, IDEs & AIs
 <p align="left">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="45" alt="npm">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="45" alt="Vercel">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" alt="Git">
 <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva">
+  <br>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45" alt="VS">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45" alt="VSCode">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="45" alt="Windows">
+
+  <br>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek">
   <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini">
 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="Minimax">
   <img src="https://letterly.app/images/mcp/claude.svg" width="45" alt="Claude">
-  <img src="https://files.raycast.com/8tewsa7j2w46l4ux51b6h2ln1ij0" width="45" alt="Copilot">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45" alt="VS">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45" alt="VSCode">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="45" alt="Windows">
-
-  
+  <img src="https://files.raycast.com/8tewsa7j2w46l4ux51b6h2ln1ij0" width="45" alt="Copilot">  
 </p>
 
 ## Projects
