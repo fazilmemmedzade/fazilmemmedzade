@@ -64,6 +64,7 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 
   <br>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT">
+  <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/OpenAI_Codex_icon.svg/1280px-OpenAI_Codex_icon.svg.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="45" alt="Codex">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek">
   <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini">
 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="Minimax">
