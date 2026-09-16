@@ -19,57 +19,57 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 
 ## Frontend
 <p align="left">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" alt="HTML">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" alt="CSS">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" alt="Js">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" alt="Bootstrap">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica.png" width="46" alt="Chart.js">
-<img src="https://files.raycast.com/5nvc08k7df18sjcosi0jqd17gi6p" width="45" alt="Font Awesome">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/lucide.png" width="45" alt="Lucide">
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" alt="HTML">  </a>
+  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" alt="CSS"></a>
+  <a href="https://tr.wikipedia.org/wiki/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" alt="Js"></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" alt="Bootstrap"></a>
+<a href="https://tailwindcss.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> </a>
+<a href="https://jquery.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery"></a>
+<a href="https://react.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React"></a>
+<a href="https://www.chartjs.org/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica.png" width="46" alt="Chart.js"></a>
+<a href="https://fontawesome.com/"><img src="https://files.raycast.com/5nvc08k7df18sjcosi0jqd17gi6p" width="45" alt="Font Awesome"></a>
+<a href="https://lucide.dev/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/lucide.png" width="45" alt="Lucide"></a>
 </p>
 
 ## Backend
 <p align="left">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45" alt="CSharp">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/scalarlogo.png" width="45" alt="Scalar">
+<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45" alt="CSharp"></a>
+<a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet"></a>
+<a href="https://www.jwt.io/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT"></a>
+<a href="https://swagger.io/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger"></a>
+<a href="https://scalar.com/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/scalarlogo.png" width="45" alt="Scalar"></a>
 </p>
 
 ## Database
 <p align="left">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="45" alt="Sqlite">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb">
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL"></a>
+<a href="https://sqlite.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="45" alt="Sqlite"></a>
+<a href="https://www.mongodb.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb"></a>
 </p>
 
 
 
 ## Tools, IDEs & AIs
 <p align="left">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="45" alt="npm">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="45" alt="Vercel">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" alt="Git">
-<img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva">
+<a href="https://vite.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite"></a>
+  <a href="https://babeljs.io/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel"></a>
+<a href="https://www.npmjs.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="45" alt="npm"></a>
+<a href="https://vercel.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="45" alt="Vercel"></a>
+<a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" alt="Git"></a>
+<a href="https://www.canva.com/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva"></a>
   <br>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45" alt="VS">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45" alt="VSCode">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="45" alt="Windows">
+    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45" alt="VS"></a>
+ <a href="https://code.visualstudio.com/"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45" alt="VSCode"></a>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="45" alt="Windows"></a>
 
   <br>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT">
-  <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/OpenAI_Codex_icon.svg/1280px-OpenAI_Codex_icon.svg.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="45" alt="Codex">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek">
-  <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini">
-<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="Minimax">
-  <img src="https://letterly.app/images/mcp/claude.svg" width="45" alt="Claude">
-  <img src="https://files.raycast.com/8tewsa7j2w46l4ux51b6h2ln1ij0" width="45" alt="Copilot">  
+  <a href="https://chatgpt.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT"></a>
+  <a href="https://openai.com/codex/"><img src="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/OpenAI_Codex_icon.svg/1280px-OpenAI_Codex_icon.svg.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="45" alt="Codex"></a>
+ <a href="https://deepseek.com/en/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek"></a>
+ <a href="https://gemini.google.com/app"> <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini"></a>
+<a href="https://agent.minimax.io/"><img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="Minimax"></a>
+ <a href="https://claude.ai/new"> <img src="https://letterly.app/images/mcp/claude.svg" width="45" alt="Claude"></a>
+ <a href="https://github.com/features/copilot"> <img src="https://files.raycast.com/8tewsa7j2w46l4ux51b6h2ln1ij0" width="45" alt="Copilot">  </a>
 </p>
 
 ## Projects
