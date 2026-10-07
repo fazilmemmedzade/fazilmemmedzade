@@ -7,15 +7,7 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 <a href="https://fazilmemmedzade.github.io/portfolio/" target="_blank">My Portfolio</a>
 </p>
 
-## Contact Me
-<p align="left">
-  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
-  <a href="https://t.me/fazil_memmedzade" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-svg-download-png-5314546.png?f=webp" width="45" alt="Telegram"></a>
-  <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="45" alt="Email"></a>
-  <a href="https://github.com/fazilmemmedzade" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
 
-  
-</p>
 
 ## Frontend
 <p align="left">
