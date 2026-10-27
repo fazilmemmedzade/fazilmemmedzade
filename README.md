@@ -26,9 +26,7 @@ I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 y
 <a href="https://tailwindcss.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> </a>
 <a href="https://jquery.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery"></a>
 <a href="https://react.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React"></a>
-<a href="https://www.chartjs.org/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica.png" width="46" alt="Chart.js"></a>
-<a href="https://fontawesome.com/"><img src="https://files.raycast.com/5nvc08k7df18sjcosi0jqd17gi6p" width="45" alt="Font Awesome"></a>
-<a href="https://lucide.dev/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/lucide.png" width="45" alt="Lucide"></a>
+
 </p>
 
 ## Backend
