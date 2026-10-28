@@ -112,22 +112,16 @@ I also use AI tools to support development workflows, research, debugging, and c
 
 ---
 
+
 ## Projects
 
-A selection of applications I've developed while exploring backend engineering, full-stack development, desktop software, and AI integration.
+A selection of my software development projects.
 
 ### RefactorAI
 
-**AI-Powered Developer Assistant**
+An AI-powered developer assistant built with React 18 for programming questions, code analysis, debugging, and refactoring. Supports conversational interaction and formatted code responses.
 
-A lightweight AI chatbot developed with React 18, designed to assist developers with programming-related tasks.
-
-**Key Features**
-- Programming assistance and code analysis
-- Debugging and refactoring support
-- Developer-focused conversational interface
-
-**Technology:** React 18, JavaScript
+**Tech:** React 18, JavaScript
 
 [Source Code](https://github.com/fazilmemmedzade/RefactorAI) · [Live Demo](https://fazilmemmedzade.github.io/RefactorAI/)
 
@@ -135,15 +129,9 @@ A lightweight AI chatbot developed with React 18, designed to assist developers 
 
 ### Flight Booking
 
-**Airline Reservation & Management System**
+A flight reservation and management system built with ASP.NET Core MVC and .NET 8. Includes booking, passenger check-in, seat selection, an administration panel, AI assistance, and machine learning-based predictions.
 
-A full-stack airline reservation application covering passenger booking workflows and administrative operations.
-
-**Key Features**
-- Online flight reservations
-- Passenger check-in
-- Administrative management panel
-- Machine learning-based passenger prediction
+**Tech:** C#, ASP.NET Core MVC, .NET 8, ML.NET
 
 [Source Code](https://github.com/fazilmemmedzade/FlightBooking)
 
@@ -151,14 +139,9 @@ A full-stack airline reservation application covering passenger booking workflow
 
 ### Blog App
 
-**Social Blogging Platform**
+A full-stack blogging platform where users can publish posts, manage profiles, follow other users, and interact through likes and comments.
 
-A web application that allows users to publish content and interact with posts through a social blogging experience.
-
-**Key Features**
-- Blog post creation and publishing
-- Content discovery
-- User interactions with published content
+**Tech:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server
 
 [Source Code](https://github.com/fazilmemmedzade/BlogApp)
 
@@ -166,11 +149,9 @@ A web application that allows users to publish content and interact with posts t
 
 ### Honey Photo
 
-**Desktop Image Editor**
+A Windows desktop application for viewing, editing, resizing, and converting images.
 
-A Windows desktop application developed using C# and Windows Forms, focused on image editing functionality.
-
-**Technology:** C#, Windows Forms
+**Tech:** C#, .NET 8, Windows Forms
 
 [Source Code](https://github.com/fazilmemmedzade/HoneyPhoto)
 
@@ -178,9 +159,9 @@ A Windows desktop application developed using C# and Windows Forms, focused on i
 
 ### Honey Degrees
 
-**Temperature Conversion Utility**
+A Windows Forms temperature converter supporting Celsius, Fahrenheit, and Kelvin.
 
-A lightweight application for converting temperature values between Celsius, Fahrenheit, and Kelvin.
+**Tech:** C#, Windows Forms
 
 [Source Code](https://github.com/fazilmemmedzade/Temperature_Transducer)
 
@@ -188,11 +169,12 @@ A lightweight application for converting temperature values between Celsius, Fah
 
 ### Meeting App
 
-**User Registration Application**
+A meeting registration web application that allows participants to submit their information and attendance status, with a separate page for viewing registrations.
 
-A simple application for managing user registrations and displaying the total number of registered members.
+**Tech:** C#, ASP.NET Core MVC, .NET 8
 
 [Source Code](https://github.com/fazilmemmedzade/MeetingApp)
+
 
 ---
 
