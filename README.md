@@ -1,115 +1,237 @@
-# Hello, I'm Fazil Məmmədzadə
-### Full-Stack .NET Developer
 
-I am a 15-year-old 10th-grade student and Full-Stack .NET Developer bringing 3 years of software development experience to backend architecture using C#, ASP.NET Core, and MSSQL. Driven by a passion for programming that started with a fascination for the complexity of binary code, I craft complete, scalable web solutions alongside my primary server-side focus using JavaScript, HTML, and CSS.
+# Hi, I'm Fazil Məmmədzadə
+
+### Full-Stack .NET Developer | Backend-Focused
+
+I'm a software developer from Azerbaijan with 3 years of programming experience, primarily focused on building backend systems and full-stack web applications using **C#, ASP.NET Core, and SQL Server**.
+
+My interest in programming began with a curiosity about how computers work at the binary level. Since then, I've continued developing my skills through practical projects, exploring software architecture, databases, APIs, and modern web technologies.
+
+I enjoy building structured, maintainable applications, solving technical problems, and continuously improving the quality of my work.
+
+Currently, I'm a high school student, developing real-world software projects alongside my education.
+
+[Portfolio](https://fazilmemmedzade.github.io/portfolio/) · [GitHub](https://github.com/fazilmemmedzade) · [Email](mailto:fazilmmmdzad48@gmail.com)
+
+---
+
+## Technical Skills
+
+### Backend Development
 
 <p align="left">
-<a href="https://fazilmemmedzade.github.io/portfolio/" target="_blank">My Portfolio</a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg?raw=true" width="45" alt="C#" title="C#" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg?raw=true" width="45" alt=".NET" title=".NET" />
+  &nbsp;
+  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(7).png?raw=true" width="45" alt="JWT" title="JWT" />
+  &nbsp;
+  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(6).png?raw=true" width="45" alt="Swagger" title="Swagger" />
+  &nbsp;
+  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/scalarlogo.png?raw=true" width="45" alt="Scalar" title="Scalar" />
 </p>
 
-## Contact Me
+**Technologies & Concepts**
+
+- C# / .NET / ASP.NET Core
+- ASP.NET Core MVC & Web API
+- Entity Framework Core / LINQ
+- ADO.NET / Dapper
+- RESTful APIs / JWT Authentication
+- Database Design & Integration
+
+### Frontend Development
+
 <p align="left">
-  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="45" alt="Instagram"></a> 
-  <a href="https://t.me/fazil_memmedzade" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-svg-download-png-5314546.png?f=webp" width="45" alt="Telegram"></a>
-  <a href="mailto:fazilmmmdzad48@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="45" alt="Email"></a>
-  <a href="https://github.com/fazilmemmedzade" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="45" alt="Github"></a>
-
-  
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg?raw=true" width="45" alt="HTML" title="HTML" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg?raw=true" width="45" alt="CSS" title="CSS" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg?raw=true" width="45" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg?raw=true" width="45" alt="Bootstrap" title="Bootstrap" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg?raw=true" width="45" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg?raw=true" width="45" alt="jQuery" title="jQuery" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg?raw=true" width="45" alt="React" title="React" />
 </p>
 
-## Frontend
+### Databases
+
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" alt="HTML">  </a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" alt="CSS"></a>
-  <a href="https://tr.wikipedia.org/wiki/JavaScript"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" alt="Js"></a>
-  <a href="https://getbootstrap.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="45" alt="Bootstrap"></a>
-<a href="https://tailwindcss.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="45" alt="TailwindCSS"> </a>
-<a href="https://jquery.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" width="45" alt="Jquery"></a>
-<a href="https://react.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" alt="React"></a>
-
+  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(4).png?raw=true" width="45" alt="SQL Server" title="SQL Server" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg?raw=true" width="45" alt="SQLite" title="SQLite" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg?raw=true" width="45" alt="MongoDB" title="MongoDB" />
 </p>
 
-## Backend
+### Development Tools & Environment
+
 <p align="left">
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45" alt="CSharp"></a>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="45" alt="dotnet"></a>
-<a href="https://www.jwt.io/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(7).png" width="45" alt="JWT"></a>
-<a href="https://swagger.io/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(6).png" width="45" alt="Swagger"></a>
-<a href="https://scalar.com/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/scalarlogo.png" width="45" alt="Scalar"></a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg?raw=true" width="45" alt="Visual Studio" title="Visual Studio" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg?raw=true" width="45" alt="VS Code" title="VS Code" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg?raw=true" width="45" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg?raw=true" width="45" alt="Windows" title="Windows" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg?raw=true" width="45" alt="Vite" title="Vite" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg?raw=true" width="45" alt="Babel" title="Babel" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg?raw=true" width="45" alt="npm" title="npm" />
+  &nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg?raw=true" width="45" alt="Vercel" title="Vercel" />
+  &nbsp;
+  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png?raw=true" width="45" alt="Canva" title="Canva" />
 </p>
 
-## Database
+### AI-Assisted Development Tools
+
+I also use AI tools to support development workflows, research, debugging, and code review.
+
 <p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(4).png" width="45" alt="MSSQL"></a>
-<a href="https://sqlite.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="45" alt="Sqlite"></a>
-<a href="https://www.mongodb.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="45" alt="MongoDb"></a>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT" title="ChatGPT" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/OpenAI_Codex_icon.svg/1280px-OpenAI_Codex_icon.svg.png" width="45" alt="Codex" title="Codex" />
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="DeepSeek" title="DeepSeek" />
+  &nbsp;
+  <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini" title="Gemini" />
+  &nbsp;
+  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="MiniMax" title="MiniMax" />
+  &nbsp;
+  <img src="https://letterly.app/images/mcp/claude.svg" width="45" alt="Claude" title="Claude" />
+  &nbsp;
+  <img src="https://files.raycast.com/8tewsa7j2w46l4ux51b6h2ln1ij0" width="45" alt="GitHub Copilot" title="GitHub Copilot" />
 </p>
 
-
-
-## Tools, IDEs & AIs
-<p align="left">
-<a href="https://vite.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="45" alt="Vite"></a>
-  <a href="https://babeljs.io/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Babel.svg" width="45" alt="Babel"></a>
-<a href="https://www.npmjs.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="45" alt="npm"></a>
-<a href="https://vercel.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" width="45" alt="Vercel"></a>
-<a href="https://git-scm.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" alt="Git"></a>
-<a href="https://www.canva.com/"><img src="https://github.com/fazilmemmedzade/My-Files/blob/main/rounded-in-photoretrica%20(1).png" width="45" alt="Canva"></a>
-  <br>
-    <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="45" alt="VS"></a>
- <a href="https://code.visualstudio.com/"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="45" alt="VSCode"></a>
-  <a href="https://www.microsoft.com/en-us/windows"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="45" alt="Windows"></a>
-
-  <br>
-  <a href="https://chatgpt.com/"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" width="45" alt="ChatGPT"></a>
-  <a href="https://openai.com/codex/"><img src="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/OpenAI_Codex_icon.svg/1280px-OpenAI_Codex_icon.svg.png?utm_source=zh.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="45" alt="Codex"></a>
- <a href="https://deepseek.com/en/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Deepseek-logo-icon.svg/3840px-Deepseek-logo-icon.svg.png" width="45" alt="Deepseek"></a>
- <a href="https://gemini.google.com/app"> <img src="https://pub-4271c874f759418fbdcd18b0e5cbe024.r2.dev/Gemini/gemini-logo.png" width="45" alt="Gemini"></a>
-<a href="https://agent.minimax.io/"><img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxm_SCLB3I1oijhAOThtuJunHC4ncj0lNzMQJWliWoQi_BQqYOQqwza1bt9aKArfUO051rpfI74gca_eKuRXscA8-&format=webp" width="45" alt="Minimax"></a>
- <a href="https://claude.ai/new"> <img src="https://letterly.app/images/mcp/claude.svg" width="45" alt="Claude"></a>
- <a href="https://github.com/features/copilot"> <img src="https://files.raycast.com/8tewsa7j2w46l4ux51b6h2ln1ij0" width="45" alt="Copilot">  </a>
-</p>
+---
 
 ## Projects
 
-### RefactorAI
-A lightweight AI chatbot built with React 18, focused on programming, code analysis, debugging, refactoring, and developer assistance.
+A selection of applications I've developed while exploring backend engineering, full-stack development, desktop software, and AI integration.
 
-[View Project](https://github.com/fazilmemmedzade/RefactorAI) |
-[Visit site](https://fazilmemmedzade.github.io/RefactorAI/)
+### RefactorAI
+
+**AI-Powered Developer Assistant**
+
+A lightweight AI chatbot developed with React 18, designed to assist developers with programming-related tasks.
+
+**Key Features**
+- Programming assistance and code analysis
+- Debugging and refactoring support
+- Developer-focused conversational interface
+
+**Technology:** React 18, JavaScript
+
+[Source Code](https://github.com/fazilmemmedzade/RefactorAI) · [Live Demo](https://fazilmemmedzade.github.io/RefactorAI/)
 
 ---
 
 ### Flight Booking
-A full-stack airline reservation system with online booking, check-in, admin panel and machine learning based passenger prediction.
 
-[View Project](https://github.com/fazilmemmedzade/FlightBooking)
+**Airline Reservation & Management System**
+
+A full-stack airline reservation application covering passenger booking workflows and administrative operations.
+
+**Key Features**
+- Online flight reservations
+- Passenger check-in
+- Administrative management panel
+- Machine learning-based passenger prediction
+
+[Source Code](https://github.com/fazilmemmedzade/FlightBooking)
 
 ---
 
 ### Blog App
-A social blogging platform where users can create, share, discover, and interact with blog posts.
 
-[View Project](https://github.com/fazilmemmedzade/BlogApp)
+**Social Blogging Platform**
 
----
+A web application that allows users to publish content and interact with posts through a social blogging experience.
 
-### Honey Degrees
-A simple tool to instantly convert temperatures between Celsius, Fahrenheit, and Kelvin.
+**Key Features**
+- Blog post creation and publishing
+- Content discovery
+- User interactions with published content
 
-[View Project](https://github.com/fazilmemmedzade/Temperature_Transducer)
+[Source Code](https://github.com/fazilmemmedzade/BlogApp)
 
 ---
 
 ### Honey Photo
-Desktop image editing application developed with C# Windows Forms.
 
-[View Project](https://github.com/fazilmemmedzade/HoneyPhoto)
+**Desktop Image Editor**
+
+A Windows desktop application developed using C# and Windows Forms, focused on image editing functionality.
+
+**Technology:** C#, Windows Forms
+
+[Source Code](https://github.com/fazilmemmedzade/HoneyPhoto)
+
+---
+
+### Honey Degrees
+
+**Temperature Conversion Utility**
+
+A lightweight application for converting temperature values between Celsius, Fahrenheit, and Kelvin.
+
+[Source Code](https://github.com/fazilmemmedzade/Temperature_Transducer)
 
 ---
 
 ### Meeting App
-MeetingApp is a user management application that allows users to register and view the total number of registered members.
 
-[View Project](https://github.com/fazilmemmedzade/MeetingApp)
+**User Registration Application**
 
+A simple application for managing user registrations and displaying the total number of registered members.
+
+[Source Code](https://github.com/fazilmemmedzade/MeetingApp)
+
+---
+
+## Currently Exploring
+
+My main focus is improving my knowledge and practical experience in:
+
+- Backend architecture and application design
+- ASP.NET Core and the .NET ecosystem
+- Relational databases and data management
+- API development, authentication, and security
+- Building maintainable, real-world software systems
+
+---
+
+## Get in Touch
+
+I'm always interested in learning, discussing software development, and connecting with other developers.
+
+<p align="left">
+  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg?raw=true" width="42" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/fazil_memmedzade" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-svg-download-png-5314546.png?f=webp" width="42" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="mailto:fazilmmmdzad48@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" width="42" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/fazilmemmedzade" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true" width="42" alt="GitHub" />
+  </a>
+</p>
+
+**Portfolio:** [fazilmemmedzade.github.io/portfolio](https://fazilmemmedzade.github.io/portfolio/)
+
+---
+
+<sub>Built with an interest in software engineering and continuous learning.</sub>
