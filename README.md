@@ -11,7 +11,15 @@ I enjoy building structured, maintainable applications, solving technical proble
 
 Currently, I'm a high school student, developing real-world software projects alongside my education.
 
-[Portfolio](https://fazilmemmedzade.github.io/portfolio/) · [GitHub](https://github.com/fazilmemmedzade) · [Email](mailto:fazilmmmdzad48@gmail.com)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/fazilmemmedzade/My-Files/main/STOKSY%20ERP%20%26%20POS%20Rozeti.png" alt="STOKSY ERP & POS — Founder & Lead Developer" width="720" />
+</p>
+
+### Founder & Lead Developer of STOKSY
+
+I'm building **STOKSY**, an ERP & POS management solution designed to simplify inventory, sales, purchasing, finances, and reporting for businesses. I lead its development, with a focus on reliable backend architecture, database design, and practical business workflows.
+
+**Built with:** C# · ASP.NET Core · .NET 9 · SQL Server · Entity Framework Core · WPF
 
 ---
 
@@ -117,6 +125,16 @@ I also use AI tools to support development workflows, research, debugging, and c
 
 A selection of my software development projects.
 
+### STOKSY — ERP & POS Management System
+
+**Founder & Lead Developer** — Developing a business management system covering inventory, sales, purchasing, finances, analytics, and POS operations.
+
+**Tech:** C#, ASP.NET Core, .NET 9, Entity Framework Core, SQL Server, WPF
+
+*Private commercial project — source code is not publicly available.*
+
+---
+
 ### RefactorAI
 
 An AI-powered developer assistant built with React 18 for programming questions, code analysis, debugging, and refactoring. Supports conversational interaction and formatted code responses.
@@ -190,29 +208,13 @@ My main focus is improving my knowledge and practical experience in:
 
 ---
 
-## Get in Touch
+## 📬 Let's Connect
 
-I'm always interested in learning, discussing software development, and connecting with other developers.
-
-<p align="left">
-  <a href="https://www.instagram.com/fazil_memmedzade/" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg?raw=true" width="42" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/fazil_memmedzade" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-telegram-logo-icon-svg-download-png-5314546.png?f=webp" width="42" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:fazilmmmdzad48@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg?raw=true" width="42" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/fazilmemmedzade" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg?raw=true" width="42" alt="GitHub" />
-  </a>
-</p>
-
-**Portfolio:** [fazilmemmedzade.github.io/portfolio](https://fazilmemmedzade.github.io/portfolio/)
+- **Portfolio:** [fazilmemmedzade.github.io/portfolio](https://fazilmemmedzade.github.io/portfolio/)
+- **GitHub:** [github.com/fazilmemmedzade](https://github.com/fazilmemmedzade)
+- **Instagram:** [@fazil_memmedzade](https://www.instagram.com/fazil_memmedzade/)
+- **Telegram:** [@fazil_memmedzade](https://t.me/fazil_memmedzade)
+- **Email:** [fazilmmmdzad48@gmail.com](mailto:fazilmmmdzad48@gmail.com)
 
 ---
 
