@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="STOKSY ERP &amp; POS — Founder and Lead Developer">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#effaf3"/><stop offset=".53" stop-color="#d7f2e2"/><stop offset="1" stop-color="#2D6A4F"/></linearGradient>
+<linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2D6A4F"/><stop offset="1" stop-color="#064e3b"/></linearGradient>
+<clipPath id="clip"><rect x="8" y="8" width="884" height="284" rx="35"/></clipPath>
+</defs>
+<rect x="8" y="8" width="884" height="284" rx="35" fill="url(#bg)" stroke="#d5e9dc" stroke-width="5"/>
+<g clip-path="url(#clip)"><path d="M0 270 Q250 365 530 185 T910 65 V310 H0Z" fill="#52bb81" opacity=".25"/><path d="M460 310 Q665 160 920 200 V310Z" fill="#14583d" opacity=".2"/></g>
+<text x="58" y="105" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="64" fill="#073b28">STOKSY</text>
+<text x="60" y="147" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="25" fill="#263c33">ERP &amp; POS Management System</text>
+<rect x="58" y="183" width="390" height="61" rx="30" fill="#146345"/>
+<text x="253" y="221" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="25" fill="#fff">Founder &amp; Lead Developer</text>
+<rect x="678" y="53" width="155" height="155" rx="32" fill="url(#tile)" stroke="#6ee4a1" stroke-width="6"/>
+<g fill="#fff"><path d="M707 95 Q707 91 713 93 L755 104 Q760 105 765 104 L806 93 Q811 91 811 96 V114 Q811 118 806 120 L764 132 Q760 134 755 132 L713 120 Q707 118 707 114Z"/><path d="M707 139 Q707 135 713 137 L755 148 Q760 149 765 148 L806 137 Q811 135 811 140 V158 Q811 162 806 164 L764 176 Q760 178 755 176 L713 164 Q707 162 707 158Z"/></g>
+</svg>
