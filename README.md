@@ -12,7 +12,7 @@ I enjoy building structured, maintainable applications, solving technical proble
 Currently, I'm a high school student, developing real-world software projects alongside my education.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/fazilmemmedzade/My-Files/main/STOKSY%20ERP%20%26%20POS%20Rozeti.png" alt="STOKSY ERP & POS — Founder & Lead Developer" width="420" />
+  <img src="https://github.com/fazilmemmedzade/My-Files/blob/main/STOKSY%20ERP%20%26%20POS%20Rozeti.png?raw=true" alt="STOKSY ERP & POS — Founder & Lead Developer" width="420" />
 </p>
 
 ### Founder & Lead Developer of STOKSY
