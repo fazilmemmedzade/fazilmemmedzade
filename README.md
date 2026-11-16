@@ -21,6 +21,15 @@ I'm building **STOKSY**, an ERP & POS management solution designed to simplify i
 
 **Built with:** C# · ASP.NET Core · .NET 9 · SQL Server · Entity Framework Core · WPF
 
+## 📬 Let's Connect
+
+- **Portfolio:** [fazilmemmedzade.github.io/portfolio](https://fazilmemmedzade.github.io/portfolio/)
+- **GitHub:** [github.com/fazilmemmedzade](https://github.com/fazilmemmedzade)
+- **Instagram:** [@fazil_memmedzade](https://www.instagram.com/fazil_memmedzade/)
+- **Telegram:** [@fazil_memmedzade](https://t.me/fazil_memmedzade)
+- **Email:** [fazilmmmdzad48@gmail.com](mailto:fazilmmmdzad48@gmail.com)
+
+
 ---
 
 ## Technical Skills
@@ -208,13 +217,6 @@ My main focus is improving my knowledge and practical experience in:
 
 ---
 
-## 📬 Let's Connect
-
-- **Portfolio:** [fazilmemmedzade.github.io/portfolio](https://fazilmemmedzade.github.io/portfolio/)
-- **GitHub:** [github.com/fazilmemmedzade](https://github.com/fazilmemmedzade)
-- **Instagram:** [@fazil_memmedzade](https://www.instagram.com/fazil_memmedzade/)
-- **Telegram:** [@fazil_memmedzade](https://t.me/fazil_memmedzade)
-- **Email:** [fazilmmmdzad48@gmail.com](mailto:fazilmmmdzad48@gmail.com)
 
 ---
 
